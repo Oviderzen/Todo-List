@@ -3,12 +3,12 @@ The famous Todo list app, a programmer's baptism. Made with Python, Flask and a 
 
 <p style="text-align:center;">App Home Page.</p>
 
-![todo-home](https://i.ibb.co/sg3CfDL/to-do-list1.png)
+![todo-home](https://i.postimg.cc/8PVC2V16/to-do-list1.png)
 <br>
 
 <p style="text-align:center;">App Login and Register Page.</p>
 
-![todo-login](https://i.ibb.co/t8BNwV5/to-do-list2.png)
+![todo-login](https://i.postimg.cc/0ykyNdK5/to-do-list3.png)
 <br>
 
 <p style="text-align:center;">App Tasks Page.</p
